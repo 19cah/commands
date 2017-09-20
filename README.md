@@ -1,2 +1,2 @@
 # Hello Git
-I will store here all tricks about github
+I will post here all tricks about github that I learned
