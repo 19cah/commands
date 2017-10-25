@@ -1,4 +1,4 @@
- # How to use https://git.io to shorten GitHub URLs and create vanity URLs
+ # How to use [git.io](https://git.io) to shorten GitHub URLs and create vanity URLs
  
  Suppose you want to shorten the URL to a particular location on GitHub. Or perhaps you want to create a vanity URL that goes directly to your GitHub profile, e.g. https://git.io/19cah. You can use Git.io: GitHub URL Shortener.
  
