@@ -1,2 +1,55 @@
 # Learn from Git
 I will post here all tricks about github that I learned
+
+```
+                                        `                                                      
+                                      `:osydNMNds:`                                                 
+                                  `/shNMMMMMMMMMMMNh/.                                              
+                                .oNMMMMMMMMMMMMMMMMMMNh+`                                           
+                               :NMMMMMMMMMMMMMMMMMMMMMMMm+`                                         
+                              `NMMMMMMMMMMMMMMMMMMMMMMMMMMd.                                        
+                              oMMMMMMMMMMMMMMMMMMMMMMMMMMMMy                                        
+                              oMMMMMMMMMMMMMMMMMMMMMMMMMMMMm`                                       
+                              `mMMMMMMMMMMMMMMMMMMMMMMMMMMMMs                                       
+                               yMMMMMMMMMMMMMMMMMMMMMMMMMMMMN`                                      
+                               dMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-                                      
+                               dMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                                      
+                               oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo `                                    
+                               /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdms                                   
+                               /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-                                  
+                               /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo                                  
+                               /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                                  
+                               .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo                                   
+                                mMMMMMMMMMMMMMMMMMMMMMMMMMMMdo/.                                    
+                                /MMMMMMMMMMMMMMMMMMMMMMMMMMMs                                       
+                                 yMMMMMMMMMMMMMMMMMMMMMMMMMMy                                       
+                                 `hMMMMMMMMMMMMMMMMMMMMMMMMMd                                       
+                                  `/mMMMMMMMMMMMMMMMMMMMMMMMN                                       
+                                    `/dMMMMMMMMMMMMMMMMMMMMMM`                                      
+                                      -MMMMMMMMMMMMMMMMMMMMMMs                                      
+                                      `dMMMMMMMMMMMMMMMMMMMMMMs`                                    
+                                       +MMMMMMMMMMMMMMMMMMMMMMMd:.                                  
+                                       .NMMMMMMMMMMMMMMMMMMMMMMMMmy+//-`                            
+                                       `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh/-.`                        
+                                      `:dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmhs:`                    
+                                 `.-oymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyo/..`              
+                          `..-:oydmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmmhyo+//.`      
+                    `.:+yhdmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd+`    
+                 `:odNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms-` 
+              `-smMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms
+             :dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+           `:NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+           `hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+           /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+          .NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+          yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+         `MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+         /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        `hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+       `hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+       sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+       dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+       mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+       NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      `NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+```
