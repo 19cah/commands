@@ -43,7 +43,7 @@ const githubBadge = readmeBadge({
  */
 const travisBadge = readmeBadge({
 	link: 'https://travis-ci.org/abranhe/public-demos',
-	image: 'https://img.shields.io/travis/abranhe/public-demos',
+	image: 'https://img.shields.io/travis/abranhe/public-demos?logo=travis',
 	alt: 'Travis'
 });
 
