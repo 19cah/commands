@@ -4,10 +4,6 @@
     "url": "https://react-pll.demos.abranhe.com"
   },
   {
-    "name": "reactjs-context",
-    "url": "https://reactjs-context.demos.abranhe.com"
-  },
-  {
     "name": "christmas-message",
     "url": "https://christmas-message.demos.abranhe.com"
   },
@@ -22,6 +18,10 @@
   {
     "name": "healthplanrate",
     "url": "https://healthplanrate.demos.abranhe.com"
+  },
+  {
+    "name": "reactjs-context",
+    "url": "https://reactjs-context.demos.abranhe.com"
   },
   {
     "name": "burialinsurance",
