@@ -27,7 +27,7 @@ demos.forEach(async demo => {
 	const reachable = await isReachable(demo.url);
 
 	if (reachable) {
-		await new Pageres()
+		await new Pageres({delay: 2})
 			.src(demo.url, [size], {crop: true, filename: demo.name})
 			.dest(path.join(__dirname, '..', 'screenshots'))
 			.run();
