@@ -1,0 +1,32 @@
+{
+  "name": "public-demos",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/abranhe/public-demos.git",
+  "author": "Abraham Hernandez <abraham@abranhe.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node scripts/screenshots.js",
+    "readme": "node scripts/readme.js",
+    "test": "xo"
+  },
+  "dependencies": {
+    "is-reachable": "^4.0.0",
+    "pageres": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-xo-react": "^0.20.0",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "xo": "^0.25.3"
+  },
+  "xo": {
+    "extends": "xo-react",
+    "rules": {
+      "default-case": 0,
+      "no-undef": 0,
+      "import/no-unassigned-import": 0,
+      "react/button-has-type": 0
+    }
+  }
+}
